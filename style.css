@@ -1,0 +1,50 @@
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+background-color: #0f172a;
+color: white;
+}
+
+
+#area-jogo {
+width: 600px;
+height: 400px;
+background-color: #020617;
+margin: 20px auto;
+position: relative;
+border: 2px solid #38bdf8;
+overflow: hidden;
+}
+
+
+.bolinha {
+width: 40px;
+height: 40px;
+border-radius: 50%;
+position: absolute;
+cursor: pointer;
+animation: surgir 0.3s ease;
+}
+
+
+.verde {
+background-color: #22c55e;
+}
+
+
+.vermelha {
+background-color: #ef4444;
+}
+
+
+@keyframes surgir {
+from { transform: scale(0); }
+to { transform: scale(1); }
+}
+
+
+button {
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+}
