@@ -17,14 +17,11 @@ O objetivo do jogo é testar os reflexos do jogador, exigindo atenção e rapide
 - CSS3
 - JavaScript
 
-## 🚀 Acesso ao jogo
-🔗 Link do jogo: 
-
 ## 📂 Repositório
-🔗 Código-fonte: 
+🔗 Código-fonte: https://github.com/Angelicaifpb/jogo-web-
 
 ## 👩‍💻 Desenvolvedores
-- Angélica Bruno Lopes Gonçalves e Roberta Ramalho de Santana
+- Angélica Bruno Lopes Gonçalves e Roberta Ramalho de Santana.
 
 ## 📚 Disciplina
 Informática Aplicada à Web – 3º INTIN
