@@ -1,28 +1,26 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
-<meta charset="UTF-8">
-<title>Jogo de Reflexo</title>
-<link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <title>Click & Dodge</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
+    <h1>🎯 Click & Dodge</h1>
 
-<h1>🎯 Jogo de Reflexo</h1>
+    <div id="info">
+        <p>Pontos: <span id="pontuacao">0</span></p>
+        <p>Vidas: <span id="vidas">3</span></p>
+        <p id="fase"></p>
+    </div>
 
+    <div id="area-jogo"></div>
 
-<div id="info">
-<span>Pontos: <strong id="pontos">0</strong></span>
-<span>Vidas: <strong id="vidas">3</strong></span>
-</div>
+    <p id="mensagem"></p>
 
+    <button id="reiniciar" onclick="reiniciarJogo()">Reiniciar Jogo</button>
 
-<button id="start">Iniciar Jogo</button>
-
-
-<div id="area-jogo"></div>
-
-
-<script src="script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>

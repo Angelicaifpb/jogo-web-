@@ -1,27 +1,49 @@
-# 🎮 Jogo de Reflexo – Click & Dodge
+# 🎮 Click & Dodge — Jogo Web
 
 ## 📌 Descrição
-Este projeto consiste em um jogo web interativo desenvolvido para a disciplina Informática Aplicada à Web, ministrada pelo professor José Neto.
+Este projeto é um jogo web interativo desenvolvido para a disciplina **Informática Aplicada à Web**.
 
-O objetivo do jogo é testar os reflexos do jogador, exigindo atenção e rapidez nas decisões.
+O objetivo do jogo é testar o reflexo do jogador: alvos aparecem aleatoriamente na tela e devem ser clicados antes de desaparecerem. Cada erro custa uma vida e a dificuldade aumenta conforme a pontuação cresce.
 
-## 🕹️ Como funciona o jogo
-- Bolinhas aparecem aleatoriamente na tela
-- Clique nas bolinhas verdes para ganhar pontos
-- Bolinhas vermelhas retiram vidas
-- Se não clicar a tempo, o jogador perde vida
-- O jogo termina quando as vidas chegam a zero
+---
 
-## 🛠️ Tecnologias utilizadas
+## 🕹️ Como Jogar
+- Clique nos círculos vermelhos que aparecem na tela
+- Cada acerto soma pontos
+- Cada erro reduz uma vida
+- A cada 5 pontos, o jogo fica mais rápido
+- Ao perder todas as vidas, o jogo termina
+- Clique em **Reiniciar Jogo** para jogar novamente
+
+---
+
+## 🛠️ Tecnologias Utilizadas
 - HTML5
 - CSS3
 - JavaScript
 
-## 📂 Repositório
-🔗 Código-fonte: https://github.com/Angelicaifpb/jogo-web-
+---
 
-## 👩‍💻 Desenvolvedores
-- Angélica Bruno Lopes Gonçalves e Roberta Ramalho de Santana.
+## 🚀 Funcionalidades
+- Pontuação e sistema de vidas
+- Dificuldade progressiva
+- Animações e feedback visual
+- Mensagem de fases
+- Botão de reinício
+- Publicação via GitHub Pages
 
-## 📚 Disciplina
-Informática Aplicada à Web – 3º INTIN
+---
+
+## 🌐 Acesso ao Jogo
+👉 https://angelicaifpb.github.io/jogo-web-/
+
+---
+
+## 👩‍💻 Desenvolvedoras
+- Angélica Bruno Lopes Gonçalves
+- Roberta Ramalho de Santana 
+
+---
+
+## 👨‍🏫 Professor
+- José Neto
